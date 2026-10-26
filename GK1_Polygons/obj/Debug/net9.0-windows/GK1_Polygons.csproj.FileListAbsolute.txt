@@ -1,0 +1,14 @@
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\bin\Debug\net9.0-windows\GK1_Polygons.exe
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\bin\Debug\net9.0-windows\GK1_Polygons.deps.json
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\bin\Debug\net9.0-windows\GK1_Polygons.runtimeconfig.json
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\bin\Debug\net9.0-windows\GK1_Polygons.dll
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\bin\Debug\net9.0-windows\GK1_Polygons.pdb
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.AssemblyInfoInputs.cache
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.AssemblyInfo.cs
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.csproj.CoreCompileInputs.cache
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.dll
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\refint\GK1_Polygons.dll
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.pdb
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\GK1_Polygons.genruntimeconfig.cache
+C:\Users\bakal\Desktop\grafika komputerowa\zad1_bakalarska_natalia\GK1_Polygons\obj\Debug\net9.0-windows\ref\GK1_Polygons.dll

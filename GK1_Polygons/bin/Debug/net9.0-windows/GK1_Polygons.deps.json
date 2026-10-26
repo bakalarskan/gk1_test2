@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GK1_Polygons/1.0.0": {
+        "runtime": {
+          "GK1_Polygons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GK1_Polygons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
